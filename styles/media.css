@@ -1,0 +1,120 @@
+@media screen and (max-width: 768px) {
+  .footer-socials {
+    width: 100%;
+    margin-right: 0;
+    text-align: center; }
+
+  .footer-socials-link {
+    width: 45px;
+    height: 45px;
+    line-height: 45px; }
+
+  .footer-text {
+    width: 100%;
+    text-align: center; } }
+@media screen and (max-width: 480px) {
+  .menu-icon {
+    top: 35px; }
+
+  .menu-wrap {
+    width: 150px; }
+
+  .menu-icon-close {
+    padding-left: 100px;
+    padding-top: 10px; }
+
+  .header {
+    padding: 60px 0 15px;
+    font-size: 40px; }
+
+  .under-header-text {
+    padding-bottom: 30px; }
+
+  header {
+    padding-top: 30px; }
+
+  nav {
+    padding-top: 30px; }
+
+  .header-form {
+    margin: 0 auto;
+    width: 90%; }
+
+  .header-button {
+    padding: 15px 0;
+    width: 100%; }
+
+  .process-list {
+    padding: 30px; }
+
+  .process-list-item {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 40px;
+    height: 200px; }
+
+  .process-link {
+    padding: 15px 0; }
+
+  .process-image {
+    padding: 20px 0; }
+
+  .woks-list {
+    padding: 30px;
+    padding-bottom: 50px; }
+
+  .works-list-item, .team-list-item {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-right: 0; }
+
+  .services-block-list {
+    width: 100%;
+    text-align: center; }
+
+  .services-link {
+    display: inline-block;
+    width: 30%;
+    height: 95px;
+    margin: 1.5%; }
+
+  .services-block-info {
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px; }
+
+  .team-list {
+    padding-bottom: 50px; }
+
+  .team-list-item {
+    margin-bottom: 25px;
+    text-align: center; }
+
+  .team-image {
+    width: 70%; }
+
+  .team-item-block {
+    bottom: -5%;
+    left: 22%;
+    width: 55%;
+    padding: 5px 0; }
+
+  .team-header {
+    padding-bottom: 0;
+    font-size: 24px; }
+
+  .team-hover {
+    left: 15%;
+    width: 70%;
+    padding-top: 20%; }
+
+  .team-hover-header {
+    padding-top: 30px; }
+
+  .socials-item-block {
+    margin: 10px 5px; }
+
+  .socials-image {
+    width: 60%; } }
+
+/*# sourceMappingURL=media.css.map */

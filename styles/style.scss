@@ -7,9 +7,7 @@ body {
 }
 
 $bg-color: #F5F5F5; // grey
-
 $color: #706B73; // darken grey
-
 $color-word: #FC6F4E; // orange
 
 .container {
@@ -25,12 +23,6 @@ $color-word: #FC6F4E; // orange
 	line-height: 46px;
 	color: #626262;
 	text-align: center;
-
-	// &:before {
-	// 		content: "";
-	// 		display: block;
-	// 		clear: both;
-	// 	}
 }
 
 .header-span {
@@ -51,14 +43,8 @@ $color-word: #FC6F4E; // orange
 // HEADER
 header {
 	padding-top: 80px;
-	background: url("../images/camera.png") center no-repeat;
+	background: url("../images/camera.jpg") center no-repeat;
 	background-size: cover;
-
-	// &:after {
-	// 	content: "";
-	// 	display: block;
-	// 	clear: both;
-	// }
 }
 
 .logo {
@@ -444,7 +430,7 @@ nav {
 .team-hover-commun {
 	&:after {
 		@extend .team-hover-design:after;
-		background-image: url("../images/line-2.png");
+		background-image: url("../images/line-3.png");
 	}
 }
 
@@ -452,14 +438,6 @@ nav {
 	@extend .team-header;
 	padding-top: 75px;
 	color: #2F2F2F;
-
-	// &:hover {
-	// 	display: hidden;
-	// }
-
-	// &:hover .team-hover {
-	// 	display: block; // to make visible
-	// }
 }
 
 .team-hover-text {
@@ -552,11 +530,6 @@ nav {
 	display: inline-block;
 }
 
-// .socials-link {
-// 	&:hover {
-// 		text-decoration: underline;
-// 	}
-// }
 .socials-image {
 	width: 100%;
 }
@@ -618,7 +591,7 @@ footer {
   	content: "";
   	width: 18px;
   	height: 6px;
-  	background: url("../images/dot-active.png");
+  	background: url("../images/dot-active.jpg");
 }  
 
 .slick-prev {

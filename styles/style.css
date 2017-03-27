@@ -32,7 +32,7 @@ body {
 
 header {
   padding-top: 80px;
-  background: url("../images/camera.png") center no-repeat;
+  background: url("../images/camera.jpg") center no-repeat;
   background-size: cover; }
 
 .logo {
@@ -325,7 +325,7 @@ nav {
   background-image: url("../images/line-2.png"); }
 
 .team-hover-commun:after {
-  background-image: url("../images/line-2.png"); }
+  background-image: url("../images/line-3.png"); }
 
 .team-hover-header {
   padding-top: 75px;
@@ -443,7 +443,7 @@ footer {
   content: "";
   width: 18px;
   height: 6px;
-  background: url("../images/dot-active.png"); }
+  background: url("../images/dot-active.jpg"); }
 
 .slick-prev, .slick-next {
   left: 1.5%;
